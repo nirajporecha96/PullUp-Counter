@@ -1,0 +1,2 @@
+rootProject.name='PullUp Counter'
+include ':app'
